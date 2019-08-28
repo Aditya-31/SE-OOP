@@ -1,8 +1,13 @@
+/*		Write A C++ Program To Create an Employee Biodata Using Following Classes:
+		1.Personal Record 	2.Professional Record		3.Academic Record.
+Assume no of employees and read and write the data:(Use Concept of Multiple Inheritance(multiple bases and single derived))
+	Name: Aditya Gade	Roll No. : 19 		SE 'A'		Date:24/7/2019		Modified Last: 28/8/19
+*/
 #include<stdio.h>
 #include<iostream>
 #include<string.h>
 using namespace std;
-/*class data
+/*class data	//CAN BE USED IF USING HIERARCHIAL TYPE!
 {
 	public:
 		virtual void get_data()=0;
