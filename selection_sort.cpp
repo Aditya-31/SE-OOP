@@ -1,4 +1,5 @@
-/*Write A C++ Program Using Class Template For Selection SOrt.*/
+/*Write A C++ Program Using Class Template For Selection Sort.*/
+/*Name: Aditya Gade	Class: SE-A 	Created:21/8/19		Last Modified:28/8/19*/
 #include<iostream>
 #include<iomanip>
 #include"temp1.h"
