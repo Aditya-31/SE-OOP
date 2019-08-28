@@ -10,8 +10,6 @@ Put Name and other details along with output in:
 7.stud.c
 8.student.cpp
 
-EDIT: NUM_TO_STRING!! AND PUT IN GENERAL!
-
 COMPLETED:
 temp1.h
 selection_sort.cpp
