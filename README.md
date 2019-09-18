@@ -6,6 +6,7 @@ Put Name and other details along with output in:
 6.stu.c
 7.stud.c
 8.student.cpp
+exception.cpp
 
 COMPLETED:
 temp1.h
