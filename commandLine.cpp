@@ -6,7 +6,12 @@
 #include<cstdlib>
 #include<iostream>
 using namespace std;
-// <filename> <old word> <new word>
+//RUN USING FOLLOWING STEPS:
+// g++ commandLine.cpp -o aditya
+// ./aditya <old word> <new word> sample.txt
+
+// Generalised Form:
+// ./<filename> <old word> <new word> <textfilename>.txt
 int main(int argc ,char* argv[])
 {
 	if(argc<4)
